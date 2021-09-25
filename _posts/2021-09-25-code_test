@@ -1,0 +1,29 @@
+---
+title: Bogo Sort
+categories: [fooling]
+comments: true
+---
+
+I'm sure this is the most trash sorting method I know. :)
+<br>
+Time Complexity: O(n!)
+<br><br>
+```python
+from random import shuffle
+
+def Bogo_sort(a):
+    chk = 0
+    while chk==0:
+        chk = 1
+        shuffle(a)
+        for i in range(len(a)-1):
+            if a[i] > a[i+1]:
+                chk = 0
+                break
+    return a
+
+a = list(map(int, input().split()))
+a = Bogo_sort(a)
+for i in a:
+    print(i, end = " ")
+```
