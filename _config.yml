@@ -24,7 +24,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: Just Newbie
-#  aboutme: false # comment this out if you don't need the 'about' page.
+  aboutme: false # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
