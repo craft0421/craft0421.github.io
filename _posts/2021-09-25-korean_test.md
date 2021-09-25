@@ -1,6 +1,6 @@
 ---
 title: 한국어 테스트
-categories: [fooling]
+categories: [korean]
 comments: true
 ---
 
