@@ -1,6 +1,6 @@
 
-title: Catbook #Your awesome title
-email: #youremail@domain.com
+title: 노근이 #Your awesome title
+email: #craft0421@gmail.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -20,10 +20,10 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Catbook
+  name: craft0421
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: Just Newbie
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
