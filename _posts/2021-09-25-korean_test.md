@@ -1,6 +1,6 @@
 ---
 title: 한국어 테스트
-categories: [korean]
+categories: [Korean_Posting]
 comments: true
 ---
 
